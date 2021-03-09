@@ -9,16 +9,18 @@
 [![Python version](https://img.shields.io/badge/python-3.1+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>A simulation developed from scratch using Pygame to simulate the movement of vehicles across a traffic intersection having traffic lights with a timer. Some satistics and analytical features added to the simulation to help in Modelling problems, Data Analysis tasks, and AI applications.</h4>
+<h4>A simulation developed from scratch using Pygame to simulate the movement of vehicles across a traffic intersection having traffic lights with a timer. Some statistics and analytical features added to the simulation to help in Modelling problems, Data Analysis tasks, and AI applications.</h4>
 
 </div>
 
 -----------------------------------------
 ### Features added:
 
-* `Vehicle Turning Functionality` - Unlike the previous simulation where all the vehicles went straight through the intersection, some of the vehicles will be turning left, some right, and some will go straight in the modified simulation.
-* `Vehicle Type Controller` - This feature lets us choose which vehicle types among  car, bus, truck and bike, we want in our simulation.
-* `Random Green Signal Timer` - If enabled, this feature sets the green signal time equal to a random number generated within a given range.
+- `Vehicle counts` : 
+- `Vehicle counts` : 
+- `Vehicle counts` : 
+- `Vehicle counts` : 
+- `Vehicle counts` : 
 
 ------------------------------------------
 ### Demo
