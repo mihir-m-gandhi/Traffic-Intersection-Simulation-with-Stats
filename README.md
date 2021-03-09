@@ -2,7 +2,7 @@
  <img height=350px src="./simulation-output.png" alt="Simulation output">
 </p>
 
-<h1 align="center">Traffic Intersection Simulation with Turns</h1>
+<h1 align="center">Traffic Intersection Simulation with Stats</h1>
 
 <div align="center">
 
@@ -39,12 +39,12 @@ The video below shows the final output of the simulation.
 
  * Step I: Clone the Repository
 ```sh
-      $ git clone https://github.com/mihir-m-gandhi/Traffic-Intersection-Simulation-with-Turns
+      $ git clone https://github.com/mihir-m-gandhi/Traffic-Intersection-Simulation-with-Stats
 ```
   * Step II: Install the required packages
 ```sh
-      # On the terminal, move into Traffic-Intersection-Simulation-with-Turns directory
-      $ cd Traffic-Intersection-Simulation-with-Turns
+      # On the terminal, move into Traffic-Intersection-Simulation-with-Stats directory
+      $ cd Traffic-Intersection-Simulation-with-Stats
       $ pip install pygame
 ```
 * Step III: Run the code
