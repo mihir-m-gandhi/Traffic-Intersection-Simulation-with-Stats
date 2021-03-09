@@ -16,11 +16,11 @@
 -----------------------------------------
 ### Features added:
 
-- `Vehicle counts` : 
-- `Vehicle counts` : 
-- `Vehicle counts` : 
-- `Vehicle counts` : 
-- `Vehicle counts` : 
+* `Vehicle counts` - 
+* `Vehicle counts` -
+* `Vehicle counts` -
+* `Vehicle counts` -
+* `Vehicle counts` -
 
 ------------------------------------------
 ### Demo
