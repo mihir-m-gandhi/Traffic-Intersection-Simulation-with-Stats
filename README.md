@@ -23,7 +23,7 @@
 * `Vehicle counts` -
 
 <p align="center">
- <img height=250px src="./stats.png" alt="Stats">
+ <img height=150px src="./stats.png" alt="Stats">
 </p>
 
 ------------------------------------------
