@@ -22,6 +22,10 @@
 * `Vehicle counts` -
 * `Vehicle counts` -
 
+<p align="center">
+ <img height=350px src="./stats.png" alt="Stats">
+</p>
+
 ------------------------------------------
 ### Demo
 
