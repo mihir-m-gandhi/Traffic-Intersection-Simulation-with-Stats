@@ -9,7 +9,7 @@
 [![Python version](https://img.shields.io/badge/python-3.1+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>A simulation developed from scratch using Pygame to simulate the movement of vehicles across a traffic intersection having traffic lights with a timer. Some statistics and analytical features were added to the previous version to help in Modelling problems, Data Analysis tasks, and AI applications.</h4>
+<h4>A simulation developed from scratch using Pygame to simulate the movement of vehicles across a traffic intersection having traffic lights with a timer. Some statistics and analytical features added to the previous version to help in Modelling problems, Data Analysis tasks, and AI applications.</h4>
 
 </div>
 
