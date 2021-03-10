@@ -16,11 +16,11 @@
 -----------------------------------------
 ### Features added:
 
-* `Vehicle counts` - 
-* `Vehicle counts` -
-* `Vehicle counts` -
-* `Vehicle counts` -
-* `Vehicle counts` -
+* `Vehicle counts` - The number of vehicles that have crossed the intersection are displayed adjacent to each traffic signal for each direction.
+* `Time Elapsed` - The time elapsed since the start of the simulation is displayed at the top right.
+* `Simulation Duration` - The total duration of simulation or end time can. be set. The simulation will quit automatically when time elapsed is equal to simulation time.
+* `Printing timers on Terminal` - The timer values of all signals are printed on the Terminal every second. This is useful for effective debugging while customizing the simulation according to your application.
+* `Printing cumulative statistics` - Statistics like direction-wise vehicle counts, total vehicles, and simulation time are printed on the Terminal at the end of the simulation, as shown in image below.
 
 <p align="center">
  <img height=150px src="./stats.png" alt="Stats">
