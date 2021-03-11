@@ -26,6 +26,8 @@
  <img height=150px src="./stats.png" alt="Stats">
 </p>
 
+Find a step-by-step guide to build this simulation [here](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a).
+
 ------------------------------------------
 ### Demo
 
